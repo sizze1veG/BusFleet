@@ -1,0 +1,14 @@
+E:\sizze1veG\c++\BusFleet\BusFleet\bin\Debug\BusFleet.exe.config
+E:\sizze1veG\c++\BusFleet\BusFleet\bin\Debug\BusFleet.exe
+E:\sizze1veG\c++\BusFleet\BusFleet\bin\Debug\BusFleet.pdb
+E:\sizze1veG\c++\BusFleet\BusFleet\obj\Debug\BusFleet.csproj.AssemblyReference.cache
+E:\sizze1veG\c++\BusFleet\BusFleet\obj\Debug\BusFleet.csproj.SuggestedBindingRedirects.cache
+E:\sizze1veG\c++\BusFleet\BusFleet\obj\Debug\BusFleet.Properties.Resources.resources
+E:\sizze1veG\c++\BusFleet\BusFleet\obj\Debug\BusFleet.csproj.GenerateResource.cache
+E:\sizze1veG\c++\BusFleet\BusFleet\obj\Debug\BusFleet.csproj.CoreCompileInputs.cache
+E:\sizze1veG\c++\BusFleet\BusFleet\obj\Debug\BusFleet.exe
+E:\sizze1veG\c++\BusFleet\BusFleet\obj\Debug\BusFleet.pdb
+E:\sizze1veG\c++\BusFleet\BusFleet\obj\Debug\BusFleet.AddBus.resources
+E:\sizze1veG\c++\BusFleet\BusFleet\obj\Debug\BusFleet.BusPark.resources
+E:\sizze1veG\c++\BusFleet\BusFleet\obj\Debug\BusFleet.ListForm.resources
+E:\sizze1veG\c++\BusFleet\BusFleet\obj\Debug\BusFleet.Info.resources
