@@ -1,4 +1,7 @@
 <h1 align="center">Программа для учета автобусов "Автобусный парк"</h1>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sizze1veG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sizze1veG/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vk.com/sizze1veg)  
+
 <h2>Задание</h2>
 Составить программу, которая содержит динамическую информацию о наличии автобусов в автобусном парке. Сведения о каждом автобусе включает:
 
@@ -33,7 +36,7 @@
 
 - Просмотр автобусов на паркове и на маршруте
 
-Чтобы узнать какие автобусы находятся на парковке или на маршруте нужно нажать кнопку «Автобусы на парковке» ил «Автобусы на маршруте». Откроется окно с таблицей. Сверху будет заголовок, соответствующий нажатой кнопке. 
+Чтобы узнать какие автобусы находятся на парковке или на маршруте нужно нажать кнопку «Автобусы на парковке» или «Автобусы на маршруте». Откроется окно с таблицей. Сверху будет заголовок, соответствующий нажатой кнопке. 
 
 <picture>
   <img src="https://github.com/sizze1veG/BusFleet1/blob/main/screenshots/Screenshot_3.png">
